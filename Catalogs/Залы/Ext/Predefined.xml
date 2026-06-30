@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.20">
+	<Item id="a14f7f0d-0de3-4f60-b742-f85c5adef537">
+		<Name>VIPЗал</Name>
+		<Code>000000002</Code>
+		<Description>VIP Зал</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="7da6b1c3-7988-43f0-a464-e54087f8f7df">
+		<Name>ОбщийЗал</Name>
+		<Code>000000001</Code>
+		<Description>Общий зал</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
